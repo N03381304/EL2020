@@ -11,7 +11,7 @@ tempPin = 6
 #Temp and Humidity sensor
 tempSensor = Adafruit_DHT.DHT11
 
-con = sql.connect('tempLog.db')
+con = sql.connect('../log/tempLog.db')
 cur = con.cursor()
 
 def readF(tempPin):
