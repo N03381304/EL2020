@@ -20,3 +20,8 @@ This repository documents my class work and projects done for _**CPS342.**_
 
 3. **Class End Date:** May 8, 2020
 
+Midterm Project.
+
+located in blink_temp/ is tempLog.py this, run this to collect temperature
+
+run flaskServer.py to set up connection.
